@@ -291,6 +291,7 @@ images/ads/
 ||cosmicwin.com^
 ||cpx.to^
 ||cquotient.com/*/gretel.
+||creativecdn.com^
 ||criteo.com^
 ||crowdscience.com^
 ||crsspxl.com^
